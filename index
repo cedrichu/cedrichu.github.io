@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>Cedric Hsu-Chieh Hu</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="css/github.css">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+
+
+<body>
+<header>
+<h1 class="title">Hsu-Chieh Hu</h1>
+</header>
+<h2 id="introduction">Introduction</h2>
+<p>I am a Ph.D. student in <a href="http://ece.cmu.edu/">Electrical and Computer Engineering Department</a> at <a href="http://cmu.edu/">Carnegie Mellon</a>, currently working on integerating robotics and AI and theirs applications on transportation under the supervision of <a href="http://www.cs.cmu.edu/~sfs/">Stephen F. Smith</a> of  <a href="http://ri.cmu.edu/"> Robotics Institute </a>. </p>
+
+
+
+<h2 id="contact">Contact</h2>
+<p>My first name at ANDREW dot CMU dot EDU</p>
+
+
+
+<h2 id="research">Research</h2>
+<ol type="1">
+<li>Queue management for Schedule-Driven Traffic Control</li>
+</ol>
+<blockquote>
+<p>
+A composite approach is proposed to real-time traffic control that uses sensed information on queue lengths to influence scheduling decisions and gracefully shift the signal control strategy to queue management in high volume/high congestion settings. 	
+</p>
+</blockquote>
+
+<ol start="2" type="1">
+<li>Schedule-Driven Demand Shifting</li>
+</ol>
+<blockquote>
+<p>We consider a setting where drivers have flexibility in the times that they can arrive and depart from the office, and all drivers must pass through a congestion bottleneck (e.g., a tunnel or a bridge).The goal is to produce a departure time for each driver that minimizes congestion at the bottleneck. </p>
+</blockquote>
+
+<ol start="3" type="1">
+<li>V-TCP: A New TCP Protocol for Vehicles</li>
+</ol>
+<blockquote>
+<p>This project is to design a new TCP protocol for vehicles to support QoS of high throughput transmission.</p>
+</blockquote>
+
+<h2 id="research">Publications</h2>
+
+
+<!-- <h2 id="talks">Talks</h2>
+<ul>
+<li><p>Seifert-van Kampen Theorem in Homotopy Type Theory at <a href="http://www.fields.utoronto.ca/activities/15-16/homotopy-type">Workshop on Homotopy Type Theory and Univalent Foundations of Mathematics (2016)</a><br />
+[<a href="files/vankampen-fields2016-slides.svg">slides</a>] [<a href="http://www.fields.utoronto.ca/video-archive/2016/05/2012-15043">recording</a>]</p></li>
+<li><p>Covering Spaces in Homotopy Type Theory at <a href="http://www.pps.univ-paris-diderot.fr/types2014/">TYPES 2014</a><br />
+[<a href="files/cover-types2014-slides.svg">slides</a>] [<a href="files/cover-types2014-slides.pdf">PDF slides</a>] [<a href="files/cover-types2014-abstract.pdf">abstract draft</a>]</p></li>
+<li><p>Covering Spaces in Homotopy Type Theory at <a href="http://www.crm.cat/2013/ctype/">Conference on Type Theory, Homotopy Theory and Univalent Foundations (2013)</a><br />
+[<a href="files/cover-crm2013-slides.svg">slides</a>] [<a href="files/cover-crm2013-slides.pdf">PDF slides</a>] [<a href="http://www.springer.com/us/book/9783319212838">abstract</a>] [<a href="files/cover-crm2013-abstract.pdf">abstract draft</a>]</p></li>
+<li><p>給電腦科學家的邏輯系統 (Logic Systems for Computer Scientists) at <a href="http://flolac.iis.sinica.edu.tw/flolac12/zh-tw/start.html">FLOLAC 2012</a><br />
+[<a href="files/logic4cs-flolac2012-slides.svg">slides</a>] [<a href="files/logic4cs-flolac2012-slides.pdf">PDF slides</a>]</p></li>
+</ul> -->
+
+
+<h2 id="teaching">Teaching</h2>
+<ul>
+<li>Teaching Assistant of <a href="http://www.cs.cmu.edu/~prs/wirelessS16/">18759: Wireless Networks</a>, Spring 2016</li>
+<li>Teaching Assistant of 18751: Applied Stochastic Processes</a>, Spring 2014</li>
+</ul>
+
+
+
+<h2 id="this-page">This Page</h2>
+<p>Minimalism with <a href="https://gist.github.com/dashed/6714393">GitHub-like CSS</a> (licensed under MIT).</p>
+</body>
+</html>
+
